@@ -1,0 +1,5 @@
+{
+  "name": "PolyMirror Dashboard",
+  "description": "A real-time dashboard for the PolyMirror copy-trading bot. Monitor whale activity on Polygon, track wallet performance, and configure trading execution settings.",
+  "requestFramePermissions": []
+}
